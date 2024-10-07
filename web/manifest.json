@@ -1,6 +1,6 @@
 {
-    "name": "rows_columns",
-    "short_name": "rows_columns",
+    "name": "learn_bloc",
+    "short_name": "learn_bloc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
